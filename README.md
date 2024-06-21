@@ -46,7 +46,7 @@
     <h2>Redes de relacionamento</h2> 
   </p>
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: wellersonpinheiros@outlook.com">
       <img width="80" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/66ccdadf-75db-47cc-84f5-e22ac8463b09)">
     </a>
     <a href = "https://www.linkedin.com/in/wellerson-pinheiros/">
