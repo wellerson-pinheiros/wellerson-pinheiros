@@ -45,10 +45,17 @@
   <p>
     <h2>Redes de relacionamento</h2> 
   </p>
-  <div>
-  <a href="https://www.linkedin.com/in/wellerson-pinheiros/" <img src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/0db002c9-41b4-4810-8b49-25e27fdb1e18)" </a>
-    <img src=""
-    <img src=""
-    <img src=""  
-  </div>
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="80" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/66ccdadf-75db-47cc-84f5-e22ac8463b09)">
+    </a>
+    <a href = "https://www.linkedin.com/in/wellerson-pinheiros/">
+      <img width="80" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/0db002c9-41b4-4810-8b49-25e27fdb1e18)">
+    </a>
+    <a href = "https://wa.me/5511914881120">
+      <img width="80" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/14aba120-6b46-49b2-ae2e-332ef78fe7e0)">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="80" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/9337c68a-9df9-4433-ae68-20ef58322191)">
+    </a>
 </div>
