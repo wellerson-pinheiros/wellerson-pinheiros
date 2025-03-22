@@ -6,16 +6,14 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%"><img width="100%"  src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/02f0e77d-0cc9-4b20-a89b-effe71cff2c8)"/></td>
+    <td width="50%"><img width="100%" src="https://github.com/wellerson-pinheiros/imagens-de-perfil-do-github/assets/124452910/02f0e77d-0cc9-4b20-a89b-effe71cff2c8)"/></td>
    <td> Wellerson | Desenvolvedor Full Stack <br>
+Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos desafios. Tenho experiência com JavaScript, TypeScript, React, Nest.js e PostgreSQL, além de estar explorando Java e Spring Boot.
 
-Apaixonado por tecnologia, sou formado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos desafios. Tenho experiência com JavaScript, TypeScript, React, Nest.js e PostgreSQL, além de estar explorando Java e Spring Boot.
-
-Atualmente, estou desenvolvendo projetos que envolvem autenticação segura, integração com APIs externas e otimização de interfaces web. Também estou aprimorando minhas habilidades em arquitetura de software e boas práticas de desenvolvimento.
+Atualmente, estou desenvolvendo projetos que envolvem integração com APIs externas e otimização de interfaces web. Também estou aprimorando minhas habilidades em arquitetura de software e boas práticas de desenvolvimento.
 
 Além do código, gosto de praticar esportes, acompanhar animes e sempre buscar novas formas de aprendizado. 🚀
 
-📌 Osasco, SP
 📩 Entre em contato para colaborações ou novos projetos!<br>
   Amo oque faço e programar é meu HOBBY.<br>
   FUTURO DEV <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" alt="Heart on Fire" width="25" height="30" />
